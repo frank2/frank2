@@ -16,6 +16,6 @@ Some notable projects:
 
 If you like what you see and are feeling generous, I take the following forms of crypto payment:
 
-* **Bitcoin**: bc1qf60h000jsu36lemhwd7szkq3rfcedcmvdd0unn
-* **Ethereum**: 0xF40FA1Ad1CE6c88F41B9D9EDCe283e375736784B
-* **Monero**: 4AmBFTCi7iefEjcj2VkySQexGRupSJN9njBGXjpf8EuYbiCFYrgyh5UNMW9bEE7G2t2H8rr1erS49bwJg9xgaFKtHwWwjE9
+* **Bitcoin**: bc1ql6vpf0920wfw33ljhp56vunzg5hntgwglpydm9
+* **Ethereum**: 0xB590dAbbbC2980FB2f7fa7C094cB47d0805A90A9
+* **Monero**: 49ySWF62tJES9QktnKnsDfh4ibpyhq5xb8TTNg6ZErtzXAH2cSyt63xZd6EL73hrz5WQc3TSGDD5uaiKgc6Fnb7AQqCgrmG
